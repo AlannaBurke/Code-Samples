@@ -1,9 +1,5 @@
 Here are the technical blog posts I'm most proud of. Everything I've written can be found [here](https://chromatichq.com/blog/author/Alanna%20Burke).
 
-[Integrating Recurly and Drupal](https://chromatichq.com/blog/integrating-recurly-and-drupal)
-[Testing Recurly Webhooks with Ngrok](https://chromatichq.com/blog/testing-recurly-webhooks-ngrok)
-[TheaterMania: Lessons Learned on Localization](https://chromatichq.com/blog/theatermania-lessons-learned-localization)
-
 Code Standards Series:
 1. [Drupal Code Standards: What Are They?](https://chromatichq.com/blog/drupal-code-standards-what-are-they)
 2. [Drupal Code Standards: How Do We Implement Them?](https://chromatichq.com/blog/drupal-code-standards-how-do-we-implement-them)
