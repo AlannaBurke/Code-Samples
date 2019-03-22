@@ -17,6 +17,10 @@ Everything I've written can be found [here](https://chromatichq.com/blog/author/
 [Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) - DrupalCon Baltimore 2017    
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
 
+### Upcoming Presentation(s):
+[Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility)
+[Diversity & Inclusion: Building a Stronger Drupal Community](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community)
+
 
 ### Misc
 Here is an [article about me from Acquia's Women in Drupal Series](https://www.acquia.com/blog/women-drupal-community-aburke626).
