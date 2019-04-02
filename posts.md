@@ -10,6 +10,7 @@ Everything I've written can be found [here](https://chromatichq.com/blog/author/
 6. [Drupal Code Standards: Object Oriented Coding & Drupal 8](https://chromatichq.com/blog/drupal-code-standards-object-oriented-coding-drupal-8)
 7. [Drupal Code Standards: Twig in Drupal 8](https://chromatichq.com/blog/drupal-code-standards-twig-drupal-8)
 
+[Drupalize.me series](https://drupalize.me/series/coding-standards-drupal)    
 
 ### Presentations I have given:
 [Git 101 - Intro to Git](https://drupaldelphia.org/session/git-101-intro-git) - Drupaldelphia 2018    
