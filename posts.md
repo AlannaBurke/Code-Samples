@@ -26,3 +26,7 @@ Everything I've written can be found [here](https://chromatichq.com/blog/author/
 ### Misc
 Here is an [article about me from Acquia's Women in Drupal Series](https://www.acquia.com/blog/women-drupal-community-aburke626).
 Two articles about the cat rescue I started years ago that's still going strong: [Slumcat millionaires](https://temple-news.com/slumcat-millionaires/), [Philadelphia’s Super Pet Adoption Day](http://aroundmainline.com/living/philadelphias-super-pet-adoption-day.html)
+
+### Links
+[Linkedin](https://www.linkedin.com/in/alannaburke/)    
+[Alanna Burke Resume](https://github.com/AlannaBurke/Code-Samples/files/3049278/Alanna.Burke.Resume.2019.pdf)
