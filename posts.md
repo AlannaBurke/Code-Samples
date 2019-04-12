@@ -13,15 +13,12 @@ Everything I've written can be found [here](https://chromatichq.com/blog/author/
 [Drupalize.me series](https://drupalize.me/series/coding-standards-drupal)    
 
 ### Presentations I have given:
+[Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
+[Diversity & Inclusion: Building a Stronger Drupal Community](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community) - DrupalCon Seattle 2019    
 [Git 101 - Intro to Git](https://drupaldelphia.org/session/git-101-intro-git) - Drupaldelphia 2018    
 [Women In the Tech Workplace](https://events.drupal.org/nashville2018/sessions/women-tech-workplace) - DrupalCon Nashville 2018    
 [Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) - DrupalCon Baltimore 2017    
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
-
-### Upcoming Presentation(s):
-[Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
-[Diversity & Inclusion: Building a Stronger Drupal Community](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community) - DrupalCon Seattle 2019
-
 
 ### Misc
 Here is an [article about me from Acquia's Women in Drupal Series](https://www.acquia.com/blog/women-drupal-community-aburke626).    
