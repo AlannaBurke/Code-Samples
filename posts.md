@@ -20,6 +20,10 @@ Everything I've written can be found [here](https://chromatichq.com/blog/author/
 [Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) - DrupalCon Baltimore 2017    
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
 
+### Labs, Workshops, Classes:
+[Accessibility Lab](https://drupaldelphia.org/session/accessibility-lab) - Drupaldelphia 2019    
+Intro to Git - Girl Develop It San Diego, 2015
+
 ### Misc
 Here is an [article about me from Acquia's Women in Drupal Series](https://www.acquia.com/blog/women-drupal-community-aburke626).    
 Two articles about the cat rescue I started years ago that's still going strong: [Slumcat millionaires](https://temple-news.com/slumcat-millionaires/), [Philadelphia’s Super Pet Adoption Day](http://aroundmainline.com/living/philadelphias-super-pet-adoption-day.html)
