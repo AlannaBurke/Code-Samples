@@ -1,5 +1,5 @@
 ### Writings
-Everything I've written can be found [here](https://chromatichq.com/blog/author/Alanna%20Burke).
+All of the blog posts I've written can be found [here](https://chromatichq.com/blog/author/Alanna%20Burke).
 
 #### Code Standards Series:
 1. [Drupal Code Standards: What Are They?](https://chromatichq.com/blog/drupal-code-standards-what-are-they)
@@ -10,7 +10,9 @@ Everything I've written can be found [here](https://chromatichq.com/blog/author/
 6. [Drupal Code Standards: Object Oriented Coding & Drupal 8](https://chromatichq.com/blog/drupal-code-standards-object-oriented-coding-drupal-8)
 7. [Drupal Code Standards: Twig in Drupal 8](https://chromatichq.com/blog/drupal-code-standards-twig-drupal-8)
 
-[Drupalize.me series](https://drupalize.me/series/coding-standards-drupal)    
+[Drupalize.me series](https://drupalize.me/series/coding-standards-drupal)  
+
+[Drupal Diversity & Inclusion Guidelines](https://www.drupaldiversity.com/docs/participant-guidelines)    
 
 ### Presentations I have given:
 [Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
