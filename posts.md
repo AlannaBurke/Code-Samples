@@ -12,7 +12,8 @@ All of the blog posts I've written can be found [here](https://chromatichq.com/b
 
 [Drupalize.me series](https://drupalize.me/series/coding-standards-drupal)  
 
-[Drupal Diversity & Inclusion Guidelines](https://www.drupaldiversity.com/docs/participant-guidelines)    
+[Drupal Diversity & Inclusion Participation Guidelines](https://www.drupaldiversity.com/docs/participant-guidelines)  
+[Drupal Diversity & Inclusion Moderation Guidelines](https://www.drupaldiversity.com/docs/moderation-guidelines)    
 
 ### Presentations I have given:
 [Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
