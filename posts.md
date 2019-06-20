@@ -35,4 +35,5 @@ Two articles about the cat rescue I started years ago that's still going strong:
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/alannaburke/)    
-[Alanna Burke Resume](https://github.com/AlannaBurke/Code-Samples/files/3049278/Alanna.Burke.Resume.2019.pdf)
+[Alanna Burke Resume](https://github.com/AlannaBurke/Code-Samples/files/3311995/Alanna.Burke.Resume.June.2019.pdf)
+
