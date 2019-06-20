@@ -21,6 +21,8 @@ Everything I've written can be found [here](https://chromatichq.com/blog/author/
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
 
 ### Labs, Workshops, Classes:
+
+Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.ca/) to the Bureau of Economic Analysis, June 2019    
 [Accessibility Lab](https://drupaldelphia.org/session/accessibility-lab) - Drupaldelphia 2019    
 Intro to Git - Girl Develop It San Diego, 2015
 
