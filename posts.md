@@ -31,7 +31,8 @@ Intro to Git - Girl Develop It San Diego, 2015
 
 ### Misc
 Here is an [article about me from Acquia's Women in Drupal Series](https://www.acquia.com/blog/women-drupal-community-aburke626).    
-Two articles about the cat rescue I started years ago that's still going strong: [Slumcat millionaires](https://temple-news.com/slumcat-millionaires/), [Philadelphia’s Super Pet Adoption Day](http://aroundmainline.com/living/philadelphias-super-pet-adoption-day.html)
+Two articles about the cat rescue I started years ago that's still going strong: [Slumcat millionaires](https://temple-news.com/slumcat-millionaires/), [Philadelphia’s Super Pet Adoption Day](http://aroundmainline.com/living/philadelphias-super-pet-adoption-day.html)   
+[Talking Drupal Podcast on Drupal Diversity & Inclusion](https://www.talkingdrupal.com/217)   
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/alannaburke/)    
