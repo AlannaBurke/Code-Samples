@@ -16,6 +16,7 @@ All of the blog posts I've written can be found [here](https://chromatichq.com/b
 [Drupal Diversity & Inclusion Moderation Guidelines](https://www.drupaldiversity.com/docs/moderation-guidelines)    
 
 ### Presentations I have given:
+[Judging a book by its cover - how inclusive is your community?](https://drupal.kuoni-congress.info/2019/program/abstract/458) - Will be Presenting at DrupalCon Amsterdam 2019    
 [Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
 [Diversity & Inclusion: Building a Stronger Drupal Community](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community) - DrupalCon Seattle 2019    
 [Git 101 - Intro to Git](https://drupaldelphia.org/session/git-101-intro-git) - Drupaldelphia 2018    
@@ -23,9 +24,10 @@ All of the blog posts I've written can be found [here](https://chromatichq.com/b
 [Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) - DrupalCon Baltimore 2017    
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
 
-### Labs, Workshops, Classes:
-
-Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.ca/) to the Bureau of Economic Analysis, June 2019    
+### Labs, Workshops, Classes, Training:
+Drupal 8 Site Building, Theming, Module Development - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September 2019   
+Drupal 8 Site Building, Theming - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September 2019    
+Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.ca/), June 2019    
 [Accessibility Lab](https://drupaldelphia.org/session/accessibility-lab) - Drupaldelphia 2019    
 Intro to Git - Girl Develop It San Diego, 2015
 
