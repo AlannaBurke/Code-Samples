@@ -1,3 +1,16 @@
+### Presentations I have given:
+[Judging a book by its cover - how inclusive is your community?](https://drupal.kuoni-congress.info/2019/program/abstract/458) - DrupalCon Amsterdam 2019 (Video to come!)
+[Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://drupal.kuoni-congress.info/2019/program/abstract/228) - DrupalCon Amsterdam 2019 (Video to come!)
+[Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
+[Diversity & Inclusion: Building a Stronger Drupal Community](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community) - DrupalCon Seattle 2019    
+[Git 101 - Intro to Git](https://drupaldelphia.org/session/git-101-intro-git) - Drupaldelphia 2018    
+[Women In the Tech Workplace](https://events.drupal.org/nashville2018/sessions/women-tech-workplace) - DrupalCon Nashville 2018    
+[Community Convos: Governance Retrospective](https://events.drupal.org/nashville2018/sessions/community-convos-governance-retrospective) - DrupalCon Nashville 2018    
+[Community Convos: Drupal Diversity & Inclusion](https://events.drupal.org/nashville2018/sessions/community-convos-drupal-diversity-inclusion) - DrupalCon Nashville 2018    
+[Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) - DrupalCon Baltimore 2017    
+[Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
+
+
 ### Writings
 All of the blog posts I've written can be found [here](https://chromatichq.com/blog/author/Alanna%20Burke).
 
@@ -15,26 +28,21 @@ All of the blog posts I've written can be found [here](https://chromatichq.com/b
 [Drupal Diversity & Inclusion Participation Guidelines](https://www.drupaldiversity.com/docs/participant-guidelines)  
 [Drupal Diversity & Inclusion Moderation Guidelines](https://www.drupaldiversity.com/docs/moderation-guidelines)    
 
-### Presentations I have given:
-[Judging a book by its cover - how inclusive is your community?](https://drupal.kuoni-congress.info/2019/program/abstract/458) - Will be Presenting at DrupalCon Amsterdam 2019    
-[Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
-[Diversity & Inclusion: Building a Stronger Drupal Community](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community) - DrupalCon Seattle 2019    
-[Git 101 - Intro to Git](https://drupaldelphia.org/session/git-101-intro-git) - Drupaldelphia 2018    
-[Women In the Tech Workplace](https://events.drupal.org/nashville2018/sessions/women-tech-workplace) - DrupalCon Nashville 2018    
-[Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) - DrupalCon Baltimore 2017    
-[Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
+
 
 ### Labs, Workshops, Classes, Training:
-Drupal 8 Site Building, Theming, Module Development - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September 2019   
+Drupal 8 Site Building, Theming, Module Development - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September, October 2019   
 Drupal 8 Site Building, Theming - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September 2019    
 Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.ca/), June 2019    
 [Accessibility Lab](https://drupaldelphia.org/session/accessibility-lab) - Drupaldelphia 2019    
 Intro to Git - Girl Develop It San Diego, 2015
 
 ### Misc
+An interview I did with OpenSource.com: [https://opensource.com/article/19/10/drupals-diversity-initiatives](https://opensource.com/article/19/10/drupals-diversity-initiatives)    
+[Talking Drupal Podcast on Drupal Diversity & Inclusion](https://www.talkingdrupal.com/217)   
 Here is an [article about me from Acquia's Women in Drupal Series](https://www.acquia.com/blog/women-drupal-community-aburke626).    
 Two articles about the cat rescue I started years ago that's still going strong: [Slumcat millionaires](https://temple-news.com/slumcat-millionaires/), [Philadelphia’s Super Pet Adoption Day](http://aroundmainline.com/living/philadelphias-super-pet-adoption-day.html)   
-[Talking Drupal Podcast on Drupal Diversity & Inclusion](https://www.talkingdrupal.com/217)   
+
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/alannaburke/)    
