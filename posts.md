@@ -1,6 +1,6 @@
 ### Presentations I have given:
 [Judging a book by its cover - how inclusive is your community?](https://drupal.kuoni-congress.info/2019/program/abstract/458) - DrupalCon Amsterdam 2019 (Video to come!)
-[Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://drupal.kuoni-congress.info/2019/program/abstract/228) - DrupalCon Amsterdam 2019 (Video to come!)
+[Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://drupal.kuoni-congress.info/2019/program/abstract/228) - DrupalCon Amsterdam 2019 (Video to come!)    
 [Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
 [Diversity & Inclusion: Building a Stronger Drupal Community](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community) - DrupalCon Seattle 2019    
 [Git 101 - Intro to Git](https://drupaldelphia.org/session/git-101-intro-git) - Drupaldelphia 2018    
