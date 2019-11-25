@@ -1,3 +1,5 @@
+## _Passionate about developers, communities and users - looking to use over ten years of experience as a developer and community leader to engage and teach users and developers using public speaking, writing, and social media skills._
+
 ### Presentations I have given:
 [Judging a book by its cover - how inclusive is your community?](https://www.youtube.com/watch?v=o5RKrQQ9Jyk&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=101&t=0s) - DrupalCon Amsterdam 2019   
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://www.youtube.com/watch?v=FoolIDaFQIc&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=80&t=0s) - DrupalCon Amsterdam 2019    
@@ -49,5 +51,5 @@ Two articles about the cat rescue I started years ago that's still going strong:
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/alannaburke/)    
-[Alanna Burke Resume](https://github.com/AlannaBurke/Code-Samples/files/3311995/Alanna.Burke.Resume.June.2019.pdf)
+[Alanna Burke Resume](https://github.com/AlannaBurke/Code-Samples/files/3889063/Alanna.Burke.Modified.Nov.2019.pdf)
 
