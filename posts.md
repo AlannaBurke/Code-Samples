@@ -4,6 +4,7 @@
 ### [Linkedin](https://www.linkedin.com/in/alannaburke/)    
 
 ### Presentations I have given:
+Upcoming: Judging a book by its cover - how inclusive is your community? - DrupalCamp NJ, January 2020    
 [Judging a book by its cover - how inclusive is your community?](https://www.youtube.com/watch?v=o5RKrQQ9Jyk&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=101&t=0s) - DrupalCon Amsterdam 2019   
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://www.youtube.com/watch?v=FoolIDaFQIc&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=80&t=0s) - DrupalCon Amsterdam 2019    
 [Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
@@ -36,6 +37,7 @@ All of the blog posts I've written can be found [here](https://chromatichq.com/b
 
 
 ### Labs, Workshops, Classes, Training:
+Upcoming: New Speaker Workshop - DrupalCamp NJ, January 2020    
 Drupal 8 Site Building, Theming, Module Development - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September, October 2019   
 Drupal 8 Site Building, Theming - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September 2019    
 Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.ca/), June 2019    
