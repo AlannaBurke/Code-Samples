@@ -1,10 +1,5 @@
-## _Passionate about developers, communities and users - looking to use over ten years of experience as a developer and community leader to engage and teach users and developers using public speaking, writing, and social media skills._
-
-### [Resume](https://github.com/AlannaBurke/Code-Samples/files/3889063/Alanna.Burke.Modified.Nov.2019.pdf)
-### [Linkedin](https://www.linkedin.com/in/alannaburke/)    
-
 ### Presentations I have given:
-Upcoming: Judging a book by its cover - how inclusive is your community? - DrupalCamp NJ, January 2020    
+Upcoming: [Judging a book by its cover - how inclusive is your community?](https://www.drupalcampnj.org/sessions/judging-book-its-cover-how-inclusive-your-community) - DrupalCamp NJ, January 2020    
 [Judging a book by its cover - how inclusive is your community?](https://www.youtube.com/watch?v=o5RKrQQ9Jyk&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=101&t=0s) - DrupalCon Amsterdam 2019   
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://www.youtube.com/watch?v=FoolIDaFQIc&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=80&t=0s) - DrupalCon Amsterdam 2019    
 [Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
@@ -16,6 +11,13 @@ Upcoming: Judging a book by its cover - how inclusive is your community? - Drupa
 [Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) - DrupalCon Baltimore 2017    
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
 
+### Labs, Workshops, Classes, Training:
+Upcoming: [New Speaker Workshop](https://www.drupalcampnj.org/workshops) - DrupalCamp NJ, January 2020    
+Drupal 8 Site Building, Theming, Module Development - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September, October 2019   
+Drupal 8 Site Building, Theming - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September 2019    
+Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.ca/), June 2019    
+[Accessibility Lab](https://drupaldelphia.org/session/accessibility-lab) - Drupaldelphia 2019    
+Intro to Git - Girl Develop It San Diego, 2015
 
 ### Writings
 All of the blog posts I've written can be found [here](https://chromatichq.com/blog/author/Alanna%20Burke).
@@ -34,15 +36,6 @@ All of the blog posts I've written can be found [here](https://chromatichq.com/b
 [Drupal Diversity & Inclusion Participation Guidelines](https://www.drupaldiversity.com/docs/participant-guidelines)  
 [Drupal Diversity & Inclusion Moderation Guidelines](https://www.drupaldiversity.com/docs/moderation-guidelines)    
 
-
-
-### Labs, Workshops, Classes, Training:
-Upcoming: New Speaker Workshop - DrupalCamp NJ, January 2020    
-Drupal 8 Site Building, Theming, Module Development - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September, October 2019   
-Drupal 8 Site Building, Theming - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September 2019    
-Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.ca/), June 2019    
-[Accessibility Lab](https://drupaldelphia.org/session/accessibility-lab) - Drupaldelphia 2019    
-Intro to Git - Girl Develop It San Diego, 2015
 
 ### Misc
 An interview I did with OpenSource.com: [https://opensource.com/article/19/10/drupals-diversity-initiatives](https://opensource.com/article/19/10/drupals-diversity-initiatives)    
