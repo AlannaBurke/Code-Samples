@@ -1,5 +1,6 @@
 ### Presentations I have given:
-Upcoming: [Judging a book by its cover - how inclusive is your community?](https://www.drupalcampnj.org/sessions/judging-book-its-cover-how-inclusive-your-community) - DrupalCamp NJ, January 2020    
+[Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://events.drupal.org/global2020/sessions/volunteer-led-strategies-helping-drupal-community) - DrupalCon Global, July 2020.   
+[Judging a book by its cover - how inclusive is your community?](https://www.drupalcampnj.org/sessions/judging-book-its-cover-how-inclusive-your-community) - DrupalCamp NJ, January 2020    
 [Judging a book by its cover - how inclusive is your community?](https://www.youtube.com/watch?v=o5RKrQQ9Jyk&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=101&t=0s) - DrupalCon Amsterdam 2019   
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://www.youtube.com/watch?v=FoolIDaFQIc&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=80&t=0s) - DrupalCon Amsterdam 2019    
 [Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
@@ -12,7 +13,8 @@ Upcoming: [Judging a book by its cover - how inclusive is your community?](https
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
 
 ### Labs, Workshops, Classes, Training:
-Upcoming: [New Speaker Workshop](https://www.drupalcampnj.org/workshops) - DrupalCamp NJ, January 2020    
+[Speaker Training for Underrepresented Drupalists](https://events.drupal.org/global2020/sessions/speaker-training-underrepresented-drupalists-part-i) - DrupalCon Global, July 2020.   
+[New Speaker Workshop](https://www.drupalcampnj.org/workshops) - DrupalCamp NJ, January 2020    
 Drupal 8 Site Building, Theming, Module Development - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September, October 2019   
 Drupal 8 Site Building, Theming - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September 2019    
 Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.ca/), June 2019    
@@ -46,7 +48,7 @@ Here is an [article about me from Acquia's Women in Drupal Series](https://www.a
 
 Two articles about the cat rescue I started years ago that's still going strong: [Slumcat millionaires](https://temple-news.com/slumcat-millionaires/), [Philadelphia’s Super Pet Adoption Day](http://aroundmainline.com/living/philadelphias-super-pet-adoption-day.html)   
 
-Webby Award for work done at Saint Joseph's University: [Webby Award - Web Relaunch]https://www.webbyawards.com/winners/2013/web/general-website/school-university/saint-josephs-university-web-relaunch/?/
+Webby Award for work done at Saint Joseph's University: [Webby Award - Web Relaunch](https://www.webbyawards.com/winners/2013/web/general-website/school-university/saint-josephs-university-web-relaunch/?/)
 
 
 
