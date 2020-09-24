@@ -1,5 +1,6 @@
 ### Presentations I have given:
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://events.drupal.org/global2020/sessions/volunteer-led-strategies-helping-drupal-community) - DrupalCon Global, July 2020.   
+[Writing Inclusive Documentation](https://www.youtube.com/watch?v=q9MmR6YPTDE&feature=emb_title) - CMS Philly, May 2020       
 [Judging a book by its cover - how inclusive is your community?](https://www.drupalcampnj.org/sessions/judging-book-its-cover-how-inclusive-your-community) - DrupalCamp NJ, January 2020    
 [Judging a book by its cover - how inclusive is your community?](https://www.youtube.com/watch?v=o5RKrQQ9Jyk&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=101&t=0s) - DrupalCon Amsterdam 2019   
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://www.youtube.com/watch?v=FoolIDaFQIc&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=80&t=0s) - DrupalCon Amsterdam 2019    
