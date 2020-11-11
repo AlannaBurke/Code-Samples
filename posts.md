@@ -5,7 +5,8 @@ Documentation is like a plant - you need to tend to it! - DrupalGov DrupalSouth,
 [Drupal Diversity & Inclusion: Making a better community, better software, and a better world](https://www.youtube.com/watch?v=kuyU8cpgB-E) - BADCamp, October 2020.  
 [Documentation is like a plant - you need to tend to it!](https://www.youtube.com/watch?v=WYdmioDFdCE&list=PLwZrRQnQbOZsxBSvXVyd0ZMyoiZPgzipY&index=14) - Flyover Camp, September 2020.   
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://events.drupal.org/global2020/sessions/volunteer-led-strategies-helping-drupal-community) - DrupalCon Global, July 2020.   
-[Writing Inclusive Documentation](https://www.youtube.com/watch?v=q9MmR6YPTDE&feature=emb_title) - CMS Philly, May 2020       
+[Writing Inclusive Documentation](https://www.youtube.com/watch?v=q9MmR6YPTDE&feature=emb_title) - CMS Philly, May 2020    
+[Beyond the Screen Reader: Humanizing Accessibility](https://www.youtube.com/watch?v=Z8RPO13N214&t=1s) - A11yTalks, February 2020.   
 [Judging a book by its cover - how inclusive is your community?](https://www.drupalcampnj.org/sessions/judging-book-its-cover-how-inclusive-your-community) - DrupalCamp NJ, January 2020    
 
 ### 2019
