@@ -1,18 +1,33 @@
-### Presentations I have given:
-[Documentation is like a plant - you need to tend to it!] - BADCamp, October 2020.  
+## Presentations I have given:
+### 2020
+Documentation is like a plant - you need to tend to it! - DrupalGov DrupalSouth, November 2020.  
+[Documentation is like a plant - you need to tend to it!](https://www.youtube.com/watch?v=3X-Fh3TyXMg) - BADCamp, October 2020.  
+[Drupal Diversity & Inclusion: Making a better community, better software, and a better world](https://www.youtube.com/watch?v=kuyU8cpgB-E) - BADCamp, October 2020.  
 [Documentation is like a plant - you need to tend to it!](https://www.youtube.com/watch?v=WYdmioDFdCE&list=PLwZrRQnQbOZsxBSvXVyd0ZMyoiZPgzipY&index=14) - Flyover Camp, September 2020.   
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://events.drupal.org/global2020/sessions/volunteer-led-strategies-helping-drupal-community) - DrupalCon Global, July 2020.   
 [Writing Inclusive Documentation](https://www.youtube.com/watch?v=q9MmR6YPTDE&feature=emb_title) - CMS Philly, May 2020       
 [Judging a book by its cover - how inclusive is your community?](https://www.drupalcampnj.org/sessions/judging-book-its-cover-how-inclusive-your-community) - DrupalCamp NJ, January 2020    
+
+### 2019
+
 [Judging a book by its cover - how inclusive is your community?](https://www.youtube.com/watch?v=o5RKrQQ9Jyk&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=101&t=0s) - DrupalCon Amsterdam 2019   
 [Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community](https://www.youtube.com/watch?v=FoolIDaFQIc&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=80&t=0s) - DrupalCon Amsterdam 2019    
 [Beyond the Screen Reader - Humanizing Accessibility](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) - DrupalCon Seattle 2019    
 [Diversity & Inclusion: Building a Stronger Drupal Community](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community) - DrupalCon Seattle 2019    
+
+### 2018
+
 [Git 101 - Intro to Git](https://drupaldelphia.org/session/git-101-intro-git) - Drupaldelphia 2018    
 [Women In the Tech Workplace](https://events.drupal.org/nashville2018/sessions/women-tech-workplace) - DrupalCon Nashville 2018    
 [Community Convos: Governance Retrospective](https://events.drupal.org/nashville2018/sessions/community-convos-governance-retrospective) - DrupalCon Nashville 2018    
-[Community Convos: Drupal Diversity & Inclusion](https://events.drupal.org/nashville2018/sessions/community-convos-drupal-diversity-inclusion) - DrupalCon Nashville 2018    
+[Community Convos: Drupal Diversity & Inclusion](https://events.drupal.org/nashville2018/sessions/community-convos-drupal-diversity-inclusion) - DrupalCon Nashville 2018 
+
+### 2017
+
 [Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) - DrupalCon Baltimore 2017    
+
+### 2016
+
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
 
 ### Labs, Workshops, Classes, Training:
