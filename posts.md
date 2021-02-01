@@ -1,6 +1,7 @@
 ## Presentations I have given:
 ### 2020
-Documentation is like a plant - you need to tend to it! - DrupalGov DrupalSouth, November 2020.  
+[Writing Inclusive Documentation](https://www.youtube.com/watch?v=RBrt4dVnBfw&list=PLpeDXSh4nHjTP7vRC6LCak9adK2yp1P5S&index=130) - DrupalCon Europe, December 2020.   
+[Documentation is like a plant - you need to tend to it!](https://drupalsouth.org/events/drupalgov-2020/sessions/documentation-plant-you-need-tend-it) - DrupalGov DrupalSouth, November 2020.  
 [Documentation is like a plant - you need to tend to it!](https://www.youtube.com/watch?v=3X-Fh3TyXMg) - BADCamp, October 2020.  
 [Drupal Diversity & Inclusion: Making a better community, better software, and a better world](https://www.youtube.com/watch?v=kuyU8cpgB-E) - BADCamp, October 2020.  
 [Documentation is like a plant - you need to tend to it!](https://www.youtube.com/watch?v=WYdmioDFdCE&list=PLwZrRQnQbOZsxBSvXVyd0ZMyoiZPgzipY&index=14) - Flyover Camp, September 2020.   
