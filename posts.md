@@ -1,14 +1,14 @@
 ## Presentations I have given:
 ### 2020
 Writing Inclusive Documentation [[video]](https://www.youtube.com/watch?v=RBrt4dVnBfw&list=PLpeDXSh4nHjTP7vRC6LCak9adK2yp1P5S&index=130) - DrupalCon Europe, December 2020.   
-[Documentation is like a plant - you need to tend to it!](https://drupalsouth.org/events/drupalgov-2020/sessions/documentation-plant-you-need-tend-it) - DrupalGov DrupalSouth, November 2020.  
+Documentation is like a plant - you need to tend to it! [[session]](https://drupalsouth.org/events/drupalgov-2020/sessions/documentation-plant-you-need-tend-it) - DrupalGov DrupalSouth, November 2020.  
 Documentation is like a plant - you need to tend to it! [[video]](https://www.youtube.com/watch?v=3X-Fh3TyXMg) - BADCamp, October 2020.  
-[Drupal Diversity & Inclusion: Making a better community, better software, and a better world](https://www.youtube.com/watch?v=kuyU8cpgB-E) - BADCamp, October 2020.  
+Drupal Diversity & Inclusion: Making a better community, better software, and a better world [[video]](https://www.youtube.com/watch?v=kuyU8cpgB-E) - BADCamp, October 2020.  
 Documentation is like a plant - you need to tend to it! [[video]](https://www.youtube.com/watch?v=WYdmioDFdCE&list=PLwZrRQnQbOZsxBSvXVyd0ZMyoiZPgzipY&index=14) - Flyover Camp, September 2020.   
 Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community [[session]](https://events.drupal.org/global2020/sessions/volunteer-led-strategies-helping-drupal-community) [[video]](https://www.youtube.com/watch?v=JIv6nbf9lUI&list=PLpeDXSh4nHjQzENjcpLo6nO3A0AkBdF8w&index=127)- DrupalCon Global, July 2020.   
-[Writing Inclusive Documentation](https://www.youtube.com/watch?v=q9MmR6YPTDE&feature=emb_title) - CMS Philly, May 2020    
-[Beyond the Screen Reader: Humanizing Accessibility](https://www.youtube.com/watch?v=Z8RPO13N214&t=1s) - A11yTalks, February 2020.   
-[Judging a book by its cover - how inclusive is your community?](https://www.drupalcampnj.org/sessions/judging-book-its-cover-how-inclusive-your-community) - DrupalCamp NJ, January 2020    
+Writing Inclusive Documentation [[video]](https://www.youtube.com/watch?v=q9MmR6YPTDE&feature=emb_title) - CMS Philly, May 2020    
+Beyond the Screen Reader: Humanizing Accessibility [[video]](https://www.youtube.com/watch?v=Z8RPO13N214&t=1s) - A11yTalks, February 2020.   
+Judging a book by its cover - how inclusive is your community? [[session]](https://www.drupalcampnj.org/sessions/judging-book-its-cover-how-inclusive-your-community) [[video]](https://www.youtube.com/watch?v=bhnsm5thw6E&feature=emb_title) - DrupalCamp NJ, January 2020    
 
 ### 2019
 
