@@ -1,4 +1,11 @@
-## Presentations I have given:
+## Presentations I have given:    
+### 2021
+Documenting an Agile Team - how to keep up - Devops Days Texas, March 2021 [[session]](https://devopsdays.org/events/2021-texas/program).  
+Documenting an Agile Team - how to keep up - DrupalCon North America, April 2021 [[session]](https://events.drupal.org/northamerica2021/sessions/documenting-agile-team-how-keep).   
+Public speaking in the virtual era: conquer your fears - DrupalFest, April 2021 [[session]](https://events.drupal.org/northamerica2021/sessions/public-speaking-virtual-era-conquer-your-fears).    
+Documenting an Agile Team - how to keep up - Devops Days Kyiv, April 22 2021 [[session]](https://devopsdays.com.ua/#schedule).  
+Documenting an Agile Team - how to keep up - Deserted Island DevOps, April 2021 [[session]](https://desertedislanddevops.com/agenda/#alannaburke) [[video]](https://www.youtube.com/watch?v=HabSOm1Pirw&list=PLVUQjiv8GtwKVaudXZxs0DWUXYaLC6l0c&index=5)    
+
 ### 2020
 Writing Inclusive Documentation [[video]](https://www.youtube.com/watch?v=RBrt4dVnBfw&list=PLpeDXSh4nHjTP7vRC6LCak9adK2yp1P5S&index=130) - DrupalCon Europe, December 2020.   
 Documentation is like a plant - you need to tend to it! [[session]](https://drupalsouth.org/events/drupalgov-2020/sessions/documentation-plant-you-need-tend-it) - DrupalGov DrupalSouth, November 2020.  
@@ -33,6 +40,7 @@ Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else
 [Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
 
 ### Labs, Workshops, Classes, Training:
+Speaker Training [[session]](https://www.midcamp.org/2021/topic-proposal/speaker-workshop-part-1-finding-topic) - MidCamp, March 2021.   
 Speaker Training for Underrepresented Drupalists [[session]](https://events.drupal.org/global2020/sessions/speaker-training-underrepresented-drupalists-part-i) [[video part 1]](https://www.youtube.com/watch?v=kyhaYs_II9c&list=PLpeDXSh4nHjQzENjcpLo6nO3A0AkBdF8w&index=95) [[video part 2]](https://www.youtube.com/watch?v=L5cRLc-JilU&list=PLpeDXSh4nHjQzENjcpLo6nO3A0AkBdF8w&index=96) [[video part 3]](https://www.youtube.com/watch?v=TxNjqXiXjcg&list=PLpeDXSh4nHjQzENjcpLo6nO3A0AkBdF8w&index=97) - DrupalCon Global, July 2020.   
 [New Speaker Workshop](https://www.drupalcampnj.org/workshops) - DrupalCamp NJ, January 2020    
 Drupal 8 Site Building, Theming, Module Development - Given on behalf of [Evolving Web](https://evolvingweb.ca/), September, October 2019   
