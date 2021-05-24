@@ -34,10 +34,10 @@ Community Convos: Drupal Diversity & Inclusion [[session]](https://events.drupal
 ### 2017
 
 Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else [[session]](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) [[video]](https://www.youtube.com/watch?v=-UffydFohKE&list=PLpeDXSh4nHjRbDdwHEBRHItfnjrJ8kEDK&index=110) - DrupalCon Baltimore 2017    
-
+Work/Life Balance - You CAN Have It All! [[session]](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017.   
 ### 2016
 
-[Work/Life Balance - You CAN Have It All!](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017, Baltimore Drupal Camp 2016, SANDcamp 2016    
+Work/Life Balance - You CAN Have It All! Baltimore Drupal Camp 2016, SANDcamp 2016    
 
 ### Labs, Workshops, Classes, Training:
 Speaker Training [[session]](https://www.midcamp.org/2021/topic-proposal/speaker-workshop-part-1-finding-topic) - MidCamp, March 2021.   
