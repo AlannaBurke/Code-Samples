@@ -1,4 +1,11 @@
 ## Presentations I have given:    
+
+### 2022
+Upcoming:    
+Documentation as a deliverable: the business case for documentation  - DrupalCon Portland, April 2022       
+A New Normal: using the ashes of the pandemic to nurture more inclusive ways of working - DrupalCon Portland, April 2022    
+
+
 ### 2021
     
 Documenting an Agile Team - how to keep up - Devops Days Texas, March 2021 [[session]](https://devopsdays.org/events/2021-texas/program).  
