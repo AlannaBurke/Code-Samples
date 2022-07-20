@@ -1,9 +1,10 @@
 ## Presentations I have given:    
 
 ### 2022
-Upcoming:    
-Documentation as a deliverable: the business case for documentation  - DrupalCon Portland, April 2022       
-A New Normal: using the ashes of the pandemic to nurture more inclusive ways of working - DrupalCon Portland, April 2022    
+#### Upcoming:  
+The struggle of getting an open-source community off the ground - DrupalCon Prague, September 2022 [[session]](https://events.drupal.org/prague2022/sessions/struggle-getting-open-source-community-ground)
+
+Documentation as a deliverable: the business case for documentation  - DrupalCon Portland, April 2022 [[session]](https://events.drupal.org/portland2022/sessions/documentation-deliverable-business-case-documentation) [[video]](https://youtu.be/LGtBHtezJE8)
 
 
 ### 2021
