@@ -60,8 +60,6 @@ Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.c
 Intro to Git - Girl Develop It San Diego, 2015
 
 ### Writings
-All of the blog posts I've written can be found [here](https://chromatichq.com/blog/author/Alanna%20Burke).
-
 #### Code Standards Series:
 1. [Drupal Code Standards: What Are They?](https://chromatichq.com/blog/drupal-code-standards-what-are-they)
 2. [Drupal Code Standards: How Do We Implement Them?](https://chromatichq.com/blog/drupal-code-standards-how-do-we-implement-them)
@@ -75,6 +73,9 @@ All of the blog posts I've written can be found [here](https://chromatichq.com/b
 
 [Drupal Diversity & Inclusion Participation Guidelines](https://www.drupaldiversity.com/docs/participant-guidelines)  
 [Drupal Diversity & Inclusion Moderation Guidelines](https://www.drupaldiversity.com/docs/moderation-guidelines)    
+
+#### Lagoon Blog:
+https://dev.to/alannaburke
 
 
 ### Misc
