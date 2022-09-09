@@ -2,7 +2,9 @@
 
 ### 2022
 #### Upcoming:  
-The struggle of getting an open-source community off the ground - DrupalCon Prague, September 2022 [[session]](https://events.drupal.org/prague2022/sessions/struggle-getting-open-source-community-ground)
+The struggle of getting an open-source community off the ground - DrupalCon Prague, September 2022 [[session]](https://events.drupal.org/prague2022/sessions/struggle-getting-open-source-community-ground).   
+Kicking ass in your career while chronic illness is kicking your ass - DDI Camp, September 2022 [[session]](https://www.drupaldiversity.com/initiatives/ddi-camp-2022/program)
+
 
 Documentation as a deliverable: the business case for documentation  - DrupalCon Portland, April 2022 [[session]](https://events.drupal.org/portland2022/sessions/documentation-deliverable-business-case-documentation) [[video]](https://youtu.be/LGtBHtezJE8)
 
