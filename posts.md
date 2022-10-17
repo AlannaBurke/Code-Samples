@@ -1,13 +1,14 @@
 ## Presentations I have given:    
 
-### 2022
-#### Upcoming:  
-The struggle of getting an open-source community off the ground - DrupalCon Prague, September 2022 [[session]](https://events.drupal.org/prague2022/sessions/struggle-getting-open-source-community-ground).   
-Kicking ass in your career while chronic illness is kicking your ass - DDI Camp, September 2022 [[session]](https://www.drupaldiversity.com/initiatives/ddi-camp-2022/program)
+### Upcoming
 
+The struggle of getting an open-source community off the ground - SeaGL, November 2022.  
 
-Documentation as a deliverable: the business case for documentation  - DrupalCon Portland, April 2022 [[session]](https://events.drupal.org/portland2022/sessions/documentation-deliverable-business-case-documentation) [[video]](https://youtu.be/LGtBHtezJE8)
-
+### 2022 
+   
+Documentation as a deliverable: the business case for documentation  - DrupalCon Portland, April 2022 [[session]](https://events.drupal.org/portland2022/sessions/documentation-deliverable-business-case-documentation) [[video]](https://youtu.be/LGtBHtezJE8)   
+Kicking ass in your career while chronic illness is kicking your ass - DDI Camp, September 2022 [[session]](https://www.drupaldiversity.com/initiatives/ddi-camp-2022/program) [[video]](https://www.youtube.com/watch?v=5L1wwstn-UI&feature=emb_title)    
+The struggle of getting an open-source community off the ground - DrupalCon Prague, September 2022 [[session]](https://events.drupal.org/prague2022/sessions/struggle-getting-open-source-community-ground). 
 
 ### 2021
     
