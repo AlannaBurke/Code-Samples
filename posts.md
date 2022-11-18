@@ -2,13 +2,13 @@
 
 ### Upcoming
 
-The struggle of getting an open-source community off the ground - SeaGL, November 2022.  
 
 ### 2022 
-   
+
+The struggle of getting an open-source community off the ground - SeaGL, November 2022.  
 Documentation as a deliverable: the business case for documentation  - DrupalCon Portland, April 2022 [[session]](https://events.drupal.org/portland2022/sessions/documentation-deliverable-business-case-documentation) [[video]](https://youtu.be/LGtBHtezJE8)   
 Kicking ass in your career while chronic illness is kicking your ass - DDI Camp, September 2022 [[session]](https://www.drupaldiversity.com/initiatives/ddi-camp-2022/program) [[video]](https://www.youtube.com/watch?v=5L1wwstn-UI&feature=emb_title)    
-The struggle of getting an open-source community off the ground - DrupalCon Prague, September 2022 [[session]](https://events.drupal.org/prague2022/sessions/struggle-getting-open-source-community-ground). 
+The struggle of getting an open-source community off the ground - DrupalCon Prague, September 2022 [[session]](https://events.drupal.org/prague2022/sessions/struggle-getting-open-source-community-ground). [[video]](https://www.youtube.com/watch?v=dykh6-aaCE4&list=PLpeDXSh4nHjRK_6I7HVLCw8k_ZTopYv5i&index=53).   
 
 ### 2021
     
