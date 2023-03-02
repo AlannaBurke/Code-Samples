@@ -1,14 +1,19 @@
 ## Presentations I have given:    
 
 ### Upcoming
+### 2023
+
+Creating a Culture of Documentation - DrupalCamp NJ, March 2023    
+Creating a Culture of Documentation - KubeCon EU, April 2023    
+Protecting your work-life balance on a global 24/7 team - DrupalCon Pittsburgh, June 2023    
 
 
 ### 2022 
 
-The struggle of getting an open-source community off the ground - SeaGL, November 2022.  
 Documentation as a deliverable: the business case for documentation  - DrupalCon Portland, April 2022 [[session]](https://events.drupal.org/portland2022/sessions/documentation-deliverable-business-case-documentation) [[video]](https://youtu.be/LGtBHtezJE8)   
 Kicking ass in your career while chronic illness is kicking your ass - DDI Camp, September 2022 [[session]](https://www.drupaldiversity.com/initiatives/ddi-camp-2022/program) [[video]](https://www.youtube.com/watch?v=5L1wwstn-UI&feature=emb_title)    
 The struggle of getting an open-source community off the ground - DrupalCon Prague, September 2022 [[session]](https://events.drupal.org/prague2022/sessions/struggle-getting-open-source-community-ground). [[video]](https://www.youtube.com/watch?v=dykh6-aaCE4&list=PLpeDXSh4nHjRK_6I7HVLCw8k_ZTopYv5i&index=53).   
+The struggle of getting an open-source community off the ground - SeaGL, November 2022.  
 
 ### 2021
     
@@ -78,8 +83,12 @@ Intro to Git - Girl Develop It San Diego, 2015
 [Drupal Diversity & Inclusion Moderation Guidelines](https://www.drupaldiversity.com/docs/moderation-guidelines)    
 
 #### Lagoon Blog:
-https://dev.to/alannaburke
+[https://dev.to/uselagoon](https://dev.to/uselagoon)
 
+#### amazee.io Blog:
+https://www.amazee.io/blog/post/a-day-in-the-life-inside-lagoon-a-step-by-step-tutorial    
+https://www.amazee.io/blog/post/a-new-home-and-platform-for-our-lagoon-documentation      
+https://www.amazee.io/blog/post/what-are-the-benefits-of-using-open-source-software    
 
 ### Misc
 An interview I did with OpenSource.com: [https://opensource.com/article/19/10/drupals-diversity-initiatives](https://opensource.com/article/19/10/drupals-diversity-initiatives)    
