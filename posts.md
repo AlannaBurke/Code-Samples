@@ -3,10 +3,13 @@
 ### Upcoming
 ### 2023
 
-Creating a Culture of Documentation - DrupalCamp NJ, March 2023 [[session]](https://www.drupalcampnj.org/sessions/creating-culture-documentation).     
-Creating a Culture of Documentation - KubeCon EU, April 2023 [[session]](https://kccnceu2023.sched.com/event/aa028b4181617bedca7864c622c6099f).  
-Protecting your work-life balance on a global 24/7 team - DrupalCon Pittsburgh, June 2023    
+Creating a Culture of Documentation - KubeCon EU, April 2023 [[session]](https://kccnceu2023.sched.com/event/aa028b4181617bedca7864c622c6099f).     
+Creating a Culture of Documentation - DrupalSouth, May 2023 [[session]](https://drupalsouth.org/events/drupalsouth-wellington-2023/schedule/2723).    
+Protecting your work-life balance on a global 24/7 team - DrupalCon Pittsburgh, June 2023 [[session]](https://events.drupal.org/pittsburgh2023/session/protecting-your-work-life-balance-global-247-team).   
 
+### 2023
+
+Creating a Culture of Documentation - DrupalCamp NJ, March 2023 [[session]](https://www.drupalcampnj.org/sessions/creating-culture-documentation).     
 
 ### 2022 
 
