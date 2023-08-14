@@ -73,6 +73,20 @@ Drupal 8 Site Building - Given on behalf of [Evolving Web](https://evolvingweb.c
 Intro to Git - Girl Develop It San Diego, 2015
 
 ### Writings
+
+#### Published Articles:
+[Creating a culture of documentation](https://sdtimes.com/softwaredev/creating-a-culture-of-documentation/) - SD Times, August 2023    
+[Your App Will Fail if Your Documentation Is Bad](https://thenewstack.io/your-app-will-fail-if-your-documentation-is-bad/) - The New Stack, August 2023
+
+
+#### Lagoon Blog:
+[https://dev.to/uselagoon](https://dev.to/uselagoon)
+
+#### amazee.io Blog:
+https://www.amazee.io/blog/post/a-day-in-the-life-inside-lagoon-a-step-by-step-tutorial    
+https://www.amazee.io/blog/post/a-new-home-and-platform-for-our-lagoon-documentation      
+https://www.amazee.io/blog/post/what-are-the-benefits-of-using-open-source-software  
+
 #### Code Standards Series:
 1. [Drupal Code Standards: What Are They?](https://chromatichq.com/blog/drupal-code-standards-what-are-they)
 2. [Drupal Code Standards: How Do We Implement Them?](https://chromatichq.com/blog/drupal-code-standards-how-do-we-implement-them)
@@ -86,14 +100,6 @@ Intro to Git - Girl Develop It San Diego, 2015
 
 [Drupal Diversity & Inclusion Participation Guidelines](https://www.drupaldiversity.com/docs/participant-guidelines)  
 [Drupal Diversity & Inclusion Moderation Guidelines](https://www.drupaldiversity.com/docs/moderation-guidelines)    
-
-#### Lagoon Blog:
-[https://dev.to/uselagoon](https://dev.to/uselagoon)
-
-#### amazee.io Blog:
-https://www.amazee.io/blog/post/a-day-in-the-life-inside-lagoon-a-step-by-step-tutorial    
-https://www.amazee.io/blog/post/a-new-home-and-platform-for-our-lagoon-documentation      
-https://www.amazee.io/blog/post/what-are-the-benefits-of-using-open-source-software    
 
 ### Misc
 An interview I did with OpenSource.com: [https://opensource.com/article/19/10/drupals-diversity-initiatives](https://opensource.com/article/19/10/drupals-diversity-initiatives)    
