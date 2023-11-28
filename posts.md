@@ -3,7 +3,7 @@
 ### Upcoming
 ### 2023
 
-Styles aren't just for CSS - Creating a Manual of Style for your Technical Writing  - DrupalCon Lille, October 2023 [[session]](https://events.drupal.org/lille2023/session/styles-arent-just-css-creating-style-guide-your-technical-writing)    
+~~Styles aren't just for CSS - Creating a Manual of Style for your Technical Writing~~  - DrupalCon Lille, October 2023 [[session]](https://events.drupal.org/lille2023/session/styles-arent-just-css-creating-style-guide-your-technical-writing) _Was ill and unable to attend_    
 
 
 ### 2023
