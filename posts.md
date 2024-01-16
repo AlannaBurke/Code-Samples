@@ -76,7 +76,8 @@ Intro to Git - Girl Develop It San Diego, 2015
 
 #### Published Articles:
 [Creating a culture of documentation](https://sdtimes.com/softwaredev/creating-a-culture-of-documentation/) - SD Times, August 2023    
-[Your App Will Fail if Your Documentation Is Bad](https://thenewstack.io/your-app-will-fail-if-your-documentation-is-bad/) - The New Stack, August 2023
+[Your App Will Fail if Your Documentation Is Bad](https://thenewstack.io/your-app-will-fail-if-your-documentation-is-bad/) - The New Stack, August 2023    
+[Bad Documentation, Bad Documentation](https://thenewstack.io/bad-documentation-bad-documentation/) - The New Stack, September 2023
 
 
 #### Lagoon Blog:
