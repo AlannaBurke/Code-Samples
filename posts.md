@@ -1,6 +1,8 @@
 ## Presentations I have given:    
 
 ### Upcoming
+### 2024
+AI is here, and it's everywhere. How do we know what's real and what's not? - Drupal Camp NJ, March 2024
 
 
 ### 2023
