@@ -1,9 +1,12 @@
-## Presentations I have given:    
+## Upcoming Presentations
 
-### Upcoming
+PetOps - Keeping Your Pets Safe with Technology (Sponsored Lightning Talk) - DrupalCon Portland, May 2024
+
+## Presentations I Have Given   
+
 ### 2024
-AI is here, and it's everywhere. How do we know what's real and what's not? - Drupal Camp NJ, March 2024
 
+AI is here, and it's everywhere. How do we know what's real and what's not? - Drupal Camp NJ, March 2024 [[session]](https://www.drupalcampnj.org/session/ai-here-and-its-everywhere-how-do-we-know-whats-real-and-whats-not)
 
 ### 2023
 
@@ -12,8 +15,6 @@ Protecting your work-life balance on a global 24/7 team - DrupalCon Pittsburgh, 
 Creating a Culture of Documentation - DrupalSouth, May 2023 [[session]](https://drupalsouth.org/events/drupalsouth-wellington-2023/schedule/2723).    
 Creating a Culture of Documentation - KubeCon EU, April 2023 [[session & video]](https://kccnceu2023.sched.com/event/aa028b4181617bedca7864c622c6099f).     
 Creating a Culture of Documentation - DrupalCamp NJ, March 2023 [[session]](https://2023.drupalcampnj.org/sessions/creating-culture-documentation) [[video]](https://youtu.be/kFsu6ct8l_0?si=FrtOZRhHpB8QRoOu).    
-
-
 
 ### 2022 
 
@@ -32,6 +33,7 @@ Documenting an Agile Team - how to keep up - Deserted Island DevOps, April 2021 
 Taking A Project Public - The History of Lagoon - DrupalCon Europe, October 2021 [[session]](https://events.drupal.org/europe2021/sessions/taking-project-public-history-lagoon) 
 
 ### 2020
+
 Writing Inclusive Documentation [[video]](https://www.youtube.com/watch?v=RBrt4dVnBfw&list=PLpeDXSh4nHjTP7vRC6LCak9adK2yp1P5S&index=130) - DrupalCon Europe, December 2020.   
 Documentation is like a plant - you need to tend to it! [[session]](https://drupalsouth.org/events/drupalgov-2020/sessions/documentation-plant-you-need-tend-it) - DrupalGov DrupalSouth, November 2020.  
 Documentation is like a plant - you need to tend to it! [[video]](https://www.youtube.com/watch?v=3X-Fh3TyXMg) - BADCamp, October 2020.  
@@ -60,11 +62,13 @@ Community Convos: Drupal Diversity & Inclusion [[session]](https://events.drupal
 
 Code Standards: It's Okay to be Yourself, But Write Your Code Like Everyone Else [[session]](https://events.drupal.org/baltimore2017/sessions/code-standards-its-okay-be-yourself-write-your-code-everyone-else) [[video]](https://www.youtube.com/watch?v=-UffydFohKE&list=PLpeDXSh4nHjRbDdwHEBRHItfnjrJ8kEDK&index=110) - DrupalCon Baltimore 2017    
 Work/Life Balance - You CAN Have It All! [[session]](https://events.drupal.org/baltimore2017/sessions/worklife-balance-you-can-have-it-all) - DrupalCon Baltimore 2017.   
+
 ### 2016
 
 Work/Life Balance - You CAN Have It All! Baltimore Drupal Camp 2016, SANDcamp 2016    
 
-### Labs, Workshops, Classes, Training:
+### Labs, Workshops, Classes, Training
+
 Speaker Training [[session]](https://www.midcamp.org/2021/topic-proposal/speaker-workshop-part-1-finding-topic) - MidCamp, March 2021.   
 Speaker Training for Underrepresented Drupalists [[session]](https://events.drupal.org/global2020/sessions/speaker-training-underrepresented-drupalists-part-i) [[video part 1]](https://www.youtube.com/watch?v=kyhaYs_II9c&list=PLpeDXSh4nHjQzENjcpLo6nO3A0AkBdF8w&index=95) [[video part 2]](https://www.youtube.com/watch?v=L5cRLc-JilU&list=PLpeDXSh4nHjQzENjcpLo6nO3A0AkBdF8w&index=96) [[video part 3]](https://www.youtube.com/watch?v=TxNjqXiXjcg&list=PLpeDXSh4nHjQzENjcpLo6nO3A0AkBdF8w&index=97) - DrupalCon Global, July 2020.   
 [New Speaker Workshop](https://www.drupalcampnj.org/workshops) - DrupalCamp NJ, January 2020    
@@ -76,21 +80,24 @@ Intro to Git - Girl Develop It San Diego, 2015
 
 ### Writings
 
-#### Published Articles:
+#### Published Articles
+
 [Creating a culture of documentation](https://sdtimes.com/softwaredev/creating-a-culture-of-documentation/) - SD Times, August 2023    
 [Your App Will Fail if Your Documentation Is Bad](https://thenewstack.io/your-app-will-fail-if-your-documentation-is-bad/) - The New Stack, August 2023    
 [Bad Documentation, Bad Documentation](https://thenewstack.io/bad-documentation-bad-documentation/) - The New Stack, September 2023
 
+#### Lagoon Blog
 
-#### Lagoon Blog:
 [https://dev.to/uselagoon](https://dev.to/uselagoon)
 
-#### amazee.io Blog:
+#### amazee.io Blog
+
 https://www.amazee.io/blog/post/a-day-in-the-life-inside-lagoon-a-step-by-step-tutorial    
 https://www.amazee.io/blog/post/a-new-home-and-platform-for-our-lagoon-documentation      
 https://www.amazee.io/blog/post/what-are-the-benefits-of-using-open-source-software  
 
-#### Code Standards Series:
+#### Code Standards Series
+
 1. [Drupal Code Standards: What Are They?](https://chromatichq.com/blog/drupal-code-standards-what-are-they)
 2. [Drupal Code Standards: How Do We Implement Them?](https://chromatichq.com/blog/drupal-code-standards-how-do-we-implement-them)
 3. [Drupal Code Standards: Formatting](https://chromatichq.com/blog/drupal-code-standards-formatting)
@@ -105,6 +112,7 @@ https://www.amazee.io/blog/post/what-are-the-benefits-of-using-open-source-softw
 [Drupal Diversity & Inclusion Moderation Guidelines](https://www.drupaldiversity.com/docs/moderation-guidelines)    
 
 ### Misc
+
 An interview I did with OpenSource.com: [https://opensource.com/article/19/10/drupals-diversity-initiatives](https://opensource.com/article/19/10/drupals-diversity-initiatives)    
 
 [Talking Drupal Podcast on Drupal Diversity & Inclusion](https://www.talkingdrupal.com/217)   
