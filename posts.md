@@ -5,7 +5,7 @@
 ### 2024
 Webinar: The Critical Role of Documentation in Open Source Success [[video]](https://www.youtube.com/watch?v=nvLA8x1jtUk)    
 PetOps - Keeping Your Pets Safe with Technology (Sponsored Lightning Talk) - DrupalCon Portland, May 2024    
-AI is here, and it's everywhere. How do we know what's real and what's not? - Drupal Camp NJ, March 2024 [[session]](https://www.drupalcampnj.org/session/ai-here-and-its-everywhere-how-do-we-know-whats-real-and-whats-not)
+AI is here, and it's everywhere. How do we know what's real and what's not? - Drupal Camp NJ, March 2024 [[session]](https://www.drupalcampnj.org/session/ai-here-and-its-everywhere-how-do-we-know-whats-real-and-whats-not)[[video]](https://youtu.be/ldFhy0zj6sU?si=SQhwuSSebR5vWmq5)
 
 ### 2023
 
