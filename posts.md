@@ -45,7 +45,7 @@ Judging a book by its cover - how inclusive is your community? [[session]](https
 
 ### 2019
 
-Judging a book by its cover - how inclusive is your community? [[video]](https://www.youtube.com/watch?v=o5RKrQQ9Jyk&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=101&t=0s) - DrupalCon Amsterdam 2019   
+Judging a book by its cover - how inclusive is your community? [[session]](https://drupal.kuoni-congress.info/2019/program/abstract/458) [[video]](https://www.youtube.com/watch?v=o5RKrQQ9Jyk&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=101&t=0s) - DrupalCon Amsterdam 2019   
 Drupal Diversity & Inclusion: Volunteer-led strategies for helping the Drupal community [[video]](https://www.youtube.com/watch?v=FoolIDaFQIc&list=PLpeDXSh4nHjSZET8xL2RyK3_2WeXxyWkY&index=80&t=0s) - DrupalCon Amsterdam 2019    
 Beyond the Screen Reader - Humanizing Accessibility [[session]](https://events.drupal.org/seattle2019/sessions/beyond-screen-reader-humanizing-accessibility) [[video]](https://www.youtube.com/watch?v=qjO1oRBQtus&list=PLpeDXSh4nHjRa80iIpiO7iFncC9nO5l6f&index=20) - DrupalCon Seattle 2019    
 Diversity & Inclusion: Building a Stronger Drupal Community [[session]](https://events.drupal.org/seattle2019/sessions/diversity-inclusion-building-stronger-drupal-community) - DrupalCon Seattle 2019    
