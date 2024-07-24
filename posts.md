@@ -25,7 +25,7 @@ The struggle of getting an open-source community off the ground - SeaGL, Novembe
 ### 2021
     
 Documenting an Agile Team - how to keep up - Devops Days Texas, March 2021 [[session]](https://devopsdays.org/events/2021-texas/program).  
-Documenting an Agile Team - how to keep up - DrupalCon North America, April 2021 [[session]](https://events.drupal.org/northamerica2021/sessions/documenting-agile-team-how-keep). [[video]](https://www.youtube.com/watch?v=SrbRfmHaLPo).   
+Documenting an Agile Team - how to keep up - DrupalCon North America, April 2021 [[video]](https://www.youtube.com/watch?v=SrbRfmHaLPo).   
 Public speaking in the virtual era: conquer your fears - DrupalFest, April 2021 [[session]](https://events.drupal.org/northamerica2021/sessions/public-speaking-virtual-era-conquer-your-fears).    
 Documenting an Agile Team - how to keep up - Devops Days Kyiv, April 22 2021 [[session]](https://devopsdays.com.ua/#schedule).  
 Documenting an Agile Team - how to keep up - Deserted Island DevOps, April 2021 [[session]](https://desertedislanddevops.com/agenda/#alannaburke) [[video]](https://www.youtube.com/watch?v=HabSOm1Pirw&list=PLVUQjiv8GtwKVaudXZxs0DWUXYaLC6l0c&index=5)    
